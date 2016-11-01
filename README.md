@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Things we want to cover:
 
-Things you may want to cover:
+* Users
 
-* Ruby version
+* Posts (Recipes)
 
-* System dependencies
+* Nested Forms
 
-* Configuration
+* Image Uploading
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* HAML
 
 * ...
